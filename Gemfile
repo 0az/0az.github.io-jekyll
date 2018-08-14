@@ -6,8 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'github-pages', group: :jekyll_plugins
 
-# gem "rails"
-
 gem "minimal-mistakes-jekyll", "~> 4.12"
 
 group :jekyll_plugins do
