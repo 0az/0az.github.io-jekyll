@@ -26,7 +26,7 @@ github_username:  0az
 
 # Build settings
 markdown: kramdown # TODO: Change to CommonMark, if possible
-site.locale: en-US
+locale: en-US
 
 plugins:
   - jekyll-feed
