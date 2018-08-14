@@ -8,3 +8,4 @@ gem 'github-pages', group: :jekyll_plugins
 
 # gem "rails"
 
+gem "minimal-mistakes-jekyll", "~> 4.12"
