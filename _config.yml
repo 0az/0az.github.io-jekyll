@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: afzhou
 github_username:  0az
+repository: 0az/0az.github.io
 
 # Build settings
 markdown: kramdown # TODO: Change to CommonMark, if possible
